@@ -6,7 +6,7 @@
 🛡️ Experienced in penetration testing, risk assessment, and threat modeling  
 📈 Currently learning advanced programming and deep learning  
 🤝 Looking to collaborate on secure app development and InfoSec projects  
-📬 Email: Frank.arroyo@rhu.edu  
+📬 Email: frank.arroyo@snhu.edu  
 🔗 LinkedIn: [Frank-Arroyo](https://www.linkedin.com/in/frank-arroyo)
 
 Fun fact: I lead competitive Warzone teams and love building strong squads — in gaming and tech.
