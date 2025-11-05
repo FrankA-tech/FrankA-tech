@@ -1,20 +1,12 @@
-# Hi, I'm @FrankArroyo
+# Hi, I'm Frank Arroyo 👋
 
-I'm interested in:
-- Python
-- C++
-- Software development
+🎓 Senior CS student @Rutgers with a concentration in Information Security  
+🔐 Passionate about cybersecurity, SETA programs, and secure system design  
+💻 Skilled in Python, Java, C++, and web development  
+🛡️ Experienced in penetration testing, risk assessment, and threat modeling  
+📈 Currently learning advanced programming and deep learning  
+🤝 Looking to collaborate on secure app development and InfoSec projects  
+📬 Email: Frank.arroyo@rhu.edu  
+🔗 LinkedIn: [Frank-Arroyo](https://www.linkedin.com/in/frank-arroyo)
 
-I'm currently learning about:
-- Programming languages
-- Deep learning
-
-I'm looking to collaborate on:
-- App development
-- Software development
-
-How to reach me:
-- Email: frank.arroyo@snhu.edu
-- LinkedIn: [Frank-Arroyo](www.linkedin.com/in/frank-arroyo-a1835531a)
-
-Fun fact: I enjoy working on cars.
+Fun fact: I lead competitive Warzone teams and love building strong squads — in gaming and tech.
